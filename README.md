@@ -37,30 +37,11 @@ This project introduces a benchmark to evaluate large language models’ ethical
   - Anthropic: `Claude 3.5 Sonnet` and `Claude 3 Haiku`,
   - Cohere: `Command R+` and `Command R`
 
-### 3⃣ Collect Model Thoughts
-
-Each model has a corresponding script under the `thoughts/` directory:
-
+### 3⃣ Prompts used
+Anonymization prompt
 ```bash
-# Example for Gemma
-python thoughts/gemma.py
+# Example for 
 ```
-
-These scripts use the BBQ dataset as input and generate thoughts from each model.
-
-### 4⃣ Annotate Bias in Thoughts
-
-Use the Llama 70b model as ground truth model:
-
-```bash
-python biased_labels.py
-```
-
-This assigns bias labels to thoughts from all models.
-
-### 5⃣ Run Baselines
-
-Code for computing bias metrics (including BRAIN) is located in the `baseline/` directory.
 
 ---
 
@@ -75,7 +56,6 @@ If you use this repository or find it helpful, please consider citing our paper:
   booktitle    = {Proceedings of the 6th ACM International Conference on AI in Finance (ICAIF '25)},
   year         = {2025},
   address      = {Singapore},
-  month        = nov,
   publisher    = {Association for Computing Machinery},
   doi          = {10.1145/3768292.3770439},
   url          = {https://doi.org/10.1145/3768292.3770439},
@@ -85,7 +65,7 @@ If you use this repository or find it helpful, please consider citing our paper:
 Pandey, A. K., & Rajwal, S. (2025). Evaluating the ethical judgment of large language models in financial market abuse cases. In Proceedings of the 6th ACM International Conference on AI in Finance (ICAIF ’25). Association for Computing Machinery. https://doi.org/10.1145/3768292.3770439
 
 ### 📖 MLA Style
-Pandey, Avinash Kumar, and Swati Rajwal. “Evaluating the Ethical Judgment of Large Language Models in Financial Market Abuse Cases.” Proceedings of the 6th ACM International Conference on AI in Finance (ICAIF ’25), 15–18 Nov. 2025, Singapore, Association for Computing Machinery, 2025, pp. 1–10. [Both authors contributed equally as first authors.] https://doi.org/10.1145/3768292.3770439.
+Pandey, Avinash Kumar, and Swati Rajwal. “Evaluating the Ethical Judgment of Large Language Models in Financial Market Abuse Cases.” Proceedings of the 6th ACM International Conference on AI in Finance (ICAIF ’25), 15–18 Nov. 2025, Singapore, Association for Computing Machinery, 2025. [Both authors contributed equally as first authors.] https://doi.org/10.1145/3768292.3770439.
 
 ---
 
@@ -142,12 +122,7 @@ This project uses multiple open-source language models and a benchmark dataset. 
       <td><a href="https://docs.cohere.com/docs/command-r"><img src="https://img.shields.io/badge/license-Proprietary-red.svg" alt="Proprietary License"></a></td>
     </tr>
     <tr>
-      <td>Dataset</td>
-      <td>Bias Benchmark for QA (BBQ)</td>
-      <td><a href="https://github.com/nyu-mll/BBQ?tab=CC-BY-4.0-1-ov-file"><img src="https://img.shields.io/badge/license-CC%20BY%204.0-lightgrey" alt="CC BY 4.0 License"></a></td>
-    </tr>
-    <tr>
-      <td>Code</td>
+      <td>Dataset and Code</td>
       <td>This Repository</td>
       <td><a href="./LICENSE"><img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="MIT License"></a></td>
     </tr>
