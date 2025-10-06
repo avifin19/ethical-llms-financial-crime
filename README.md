@@ -58,7 +58,8 @@ Pandey, Avinash Kumar, and Swati Rajwal. “Evaluating the Ethical Judgment of L
 ---
 
 ### ⚖️License
-This project uses multiple open-source language models and a benchmark dataset. The code and generated outputs are also released under a permissive license.
+This project uses multiple open-sourced and properitery large language models. The code is released under a permissive license; model outputs are subject to the respective model licenses.
+
 <table>
   <thead>
     <tr>
