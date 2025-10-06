@@ -91,11 +91,11 @@ This project uses multiple open-source language models and a benchmark dataset. 
     </tr>
     <tr>
       <td>Mistral Mixtral-8x22B-Instruct</td>
-      <td><a href="https://huggingface.co/mistralai/Mixtral-8x22B-Instruct/blob/main/LICENSE"><img src="https://img.shields.io/badge/license-Apache%202.0-green.svg" alt="Apache 2.0 License"></a></td>
+      <td><a href="https://huggingface.co/datasets/choosealicense/licenses/blob/main/markdown/apache-2.0.md"><img src="https://img.shields.io/badge/license-Apache%202.0-green.svg" alt="Apache 2.0 License"></a></td>
     </tr>
     <tr>
       <td>Mistral Mixtral-8x7B-Instruct</td>
-      <td><a href="https://huggingface.co/mistralai/Mixtral-8x7B-Instruct/blob/main/LICENSE"><img src="https://img.shields.io/badge/license-Apache%202.0-green.svg" alt="Apache 2.0 License"></a></td>
+      <td><a href="https://huggingface.co/datasets/choosealicense/licenses/blob/main/markdown/apache-2.0.md"><img src="https://img.shields.io/badge/license-Apache%202.0-green.svg" alt="Apache 2.0 License"></a></td>
     </tr>
     <tr>
       <td>Qwen Qwen-2.5-72B-Instruct</td>
@@ -107,11 +107,11 @@ This project uses multiple open-source language models and a benchmark dataset. 
     </tr>
     <tr>
       <td>Anthropic Claude 3.5 Sonnet</td>
-      <td><a href="https://www.anthropic.com/legal/commercial-claude-use-policy"><img src="https://img.shields.io/badge/license-Proprietary-red.svg" alt="Proprietary License"></a></td>
+      <td><a href="https://docs.claude.com/en/docs/claude-code/legal-and-compliance"><img src="https://img.shields.io/badge/license-Proprietary-red.svg" alt="Proprietary License"></a></td>
     </tr>
     <tr>
       <td>Anthropic Claude 3 Haiku</td>
-      <td><a href="https://www.anthropic.com/legal/commercial-claude-use-policy"><img src="https://img.shields.io/badge/license-Proprietary-red.svg" alt="Proprietary License"></a></td>
+      <td><a href="https://docs.claude.com/en/docs/claude-code/legal-and-compliance"><img src="https://img.shields.io/badge/license-Proprietary-red.svg" alt="Proprietary License"></a></td>
     </tr>
     <tr>
       <td>Cohere Command R+</td>
