@@ -29,8 +29,8 @@ This project introduces a benchmark to evaluate large language models’ ethical
   
 ### 2⃣ Code and Prompts used
 - Anonymization prompt: [Code](./scripts/1_anonymization.py)
-- Synthetic cases curation (L27 Taguchi):
-- Evaluation tasks prompt:
+- Synthetic cases curation (L27 Taguchi): [Code](./scripts/2_Synthetic_cases_curation.py)
+- Evaluation tasks prompt: [Code](./scripts/3_Evaluation_tasks_prompt.py)
 ---
 
 ## 📁 Citation
