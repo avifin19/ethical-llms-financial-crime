@@ -101,39 +101,55 @@ This project uses multiple open-source language models and a benchmark dataset. 
   </thead>
   <tbody>
     <tr>
-      <td rowspan="6" style="vertical-align: middle; text-align: center;">Model</td>
-      <td>meta-llama/Llama-3.1-8B-Instruct</td>
-      <td><a href="https://huggingface.co/meta-llama/Llama-3.1-8B-Instruct/blob/main/LICENSE"><img src="https://img.shields.io/badge/license-Community-blue" alt="Community License Agreement"></a></td>
+      <td rowspan="10" style="vertical-align: middle; text-align: center;">Model</td>
+      <td>OpenAI GPT-4o</td>
+      <td><a href="https://openai.com/policies/terms-of-use"><img src="https://img.shields.io/badge/license-Proprietary-red.svg" alt="Proprietary License"></a></td>
     </tr>
     <tr>
-      <td>meta-llama/Meta-Llama-3-70B-Instruct</td>
-      <td><a href="https://huggingface.co/meta-llama/Meta-Llama-3-70B-Instruct/blob/main/LICENSE"><img src="https://img.shields.io/badge/license-Community-blue" alt="Community License Agreement"></a></td>
+      <td>OpenAI GPT-4o-mini</td>
+      <td><a href="https://openai.com/policies/terms-of-use"><img src="https://img.shields.io/badge/license-Proprietary-red.svg" alt="Proprietary License"></a></td>
     </tr>
     <tr>
-      <td>mistralai/Mistral-7B-Instruct-v0.3</td>
-      <td><a href="https://huggingface.co/datasets/choosealicense/licenses/blob/main/markdown/apache-2.0.md"><img src="https://img.shields.io/badge/license-Apache%202.0-green" alt="Apache 2.0 License"></a></td>
+      <td>Mistral Mixtral-8x22B-Instruct</td>
+      <td><a href="https://huggingface.co/mistralai/Mixtral-8x22B-Instruct/blob/main/LICENSE"><img src="https://img.shields.io/badge/license-Apache%202.0-green.svg" alt="Apache 2.0 License"></a></td>
     </tr>
     <tr>
-      <td>microsoft/Phi-3.5-mini-instruct</td>
-      <td><a href="https://huggingface.co/microsoft/Phi-3.5-mini-instruct/blob/main/LICENSE"><img src="https://img.shields.io/badge/license-MIT-yellow" alt="MIT License"></a></td>
+      <td>Mistral Mixtral-8x7B-Instruct</td>
+      <td><a href="https://huggingface.co/mistralai/Mixtral-8x7B-Instruct/blob/main/LICENSE"><img src="https://img.shields.io/badge/license-Apache%202.0-green.svg" alt="Apache 2.0 License"></a></td>
     </tr>
     <tr>
-      <td>Qwen/Qwen2.5-7B-Instruct</td>
-      <td><a href="https://huggingface.co/Qwen/Qwen2.5-7B-Instruct/blob/main/LICENSE"><img src="https://img.shields.io/badge/license-Apache%202.0-green" alt="Apache 2.0 License"></a></td>
+      <td>Qwen Qwen-2.5-72B-Instruct</td>
+      <td><a href="https://huggingface.co/Qwen/Qwen2.5-72B-Instruct/blob/main/LICENSE"><img src="https://img.shields.io/badge/license-Apache%202.0-green.svg" alt="Apache 2.0 License"></a></td>
     </tr>
     <tr>
-      <td>google/gemma-2-2B-it</td>
-      <td><a href="https://ai.google.dev/gemma/terms"><img src="https://img.shields.io/badge/license-Gemma-orange" alt="Gemma License"></a></td>
+      <td>Qwen Qwen-2.5-7B-Instruct</td>
+      <td><a href="https://huggingface.co/Qwen/Qwen2.5-7B-Instruct/blob/main/LICENSE"><img src="https://img.shields.io/badge/license-Apache%202.0-green.svg" alt="Apache 2.0 License"></a></td>
+    </tr>
+    <tr>
+      <td>Anthropic Claude 3.5 Sonnet</td>
+      <td><a href="https://www.anthropic.com/legal/commercial-claude-use-policy"><img src="https://img.shields.io/badge/license-Proprietary-red.svg" alt="Proprietary License"></a></td>
+    </tr>
+    <tr>
+      <td>Anthropic Claude 3 Haiku</td>
+      <td><a href="https://www.anthropic.com/legal/commercial-claude-use-policy"><img src="https://img.shields.io/badge/license-Proprietary-red.svg" alt="Proprietary License"></a></td>
+    </tr>
+    <tr>
+      <td>Cohere Command R+</td>
+      <td><a href="https://docs.cohere.com/docs/command-r-plus"><img src="https://img.shields.io/badge/license-Proprietary-red.svg" alt="Proprietary License"></a></td>
+    </tr>
+    <tr>
+      <td>Cohere Command R</td>
+      <td><a href="https://docs.cohere.com/docs/command-r"><img src="https://img.shields.io/badge/license-Proprietary-red.svg" alt="Proprietary License"></a></td>
     </tr>
     <tr>
       <td>Dataset</td>
       <td>Bias Benchmark for QA (BBQ)</td>
-      <td><a href="https://github.com/nyu-mll/BBQ?tab=CC-BY-4.0-1-ov-file"><img src="https://img.shields.io/badge/license-CC%20BY%204.0-lightgrey" alt="CC BY 4.0"></a></td>
+      <td><a href="https://github.com/nyu-mll/BBQ?tab=CC-BY-4.0-1-ov-file"><img src="https://img.shields.io/badge/license-CC%20BY%204.0-lightgrey" alt="CC BY 4.0 License"></a></td>
     </tr>
     <tr>
       <td>Code</td>
       <td>This Repository</td>
-      <td><a href="./LICENSE"><img src="https://img.shields.io/badge/license-MIT-blue" alt="MIT License"></a></td>
+      <td><a href="./LICENSE"><img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="MIT License"></a></td>
     </tr>
   </tbody>
 </table>
