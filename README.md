@@ -17,13 +17,14 @@ This project introduces a benchmark to evaluate large language models’ ethical
 ## ⚙️ How to Run
 ### 1⃣ Required Access
 
-- 🔐 You will need an [OpenRouter access](https://openrouter.ai/) and following models are used in this study:
+- Following models are used in this study:
   - OpenAI: `GPT-4o` and `GPT-4o-mini`,
   - Mistral: `Mixtral-8x22B-Instruct` and `Mixtral-8x7B-Instruct`,
   - Alibaba: `Qwen-2.5-72B-Instruct` and `Qwen-2.5-7B-Instruct`,
   - Anthropic: `Claude 3.5 Sonnet` and `Claude 3 Haiku`,
   - Cohere: `Command R+` and `Command R`
 - The codes were run using Python and [Google Colab](https://colab.research.google.com/).
+- [OpenRouter access](https://openrouter.ai/) was utilized to call the models but you can use any other service.
   
 ### 2⃣ Code and Prompts used
 - Anonymization prompt:
