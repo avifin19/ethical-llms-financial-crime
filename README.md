@@ -28,7 +28,7 @@ This project introduces a benchmark to evaluate large language models’ ethical
 - [OpenRouter access](https://openrouter.ai/) was utilized to call the models but you can use any other service.
   
 ### 2⃣ Code and Prompts used
-- Anonymization prompt:
+- Anonymization prompt: [Code](./scripts/1_anonymization.py)
 - Synthetic cases curation (L27 Taguchi):
 - Evaluation tasks prompt:
 ---
