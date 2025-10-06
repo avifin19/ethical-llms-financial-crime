@@ -15,20 +15,7 @@ This project introduces a benchmark to evaluate large language models’ ethical
 ---
 
 ## ⚙️ How to Run
-
-### 1⃣ Set Up Environment
-
-- **Using pip:**
-  ```bash
-  pip install -r env_files/requirements.txt
-  ```
-
-- **Using conda:**
-  ```bash
-  conda env create -f env_files/environment.yml
-  ```
-
-### 2⃣ Required Access
+### 1⃣ Required Access
 
 - 🔐 You will need an [OpenRouter access](https://openrouter.ai/) and following models are used in this study:
   - OpenAI: `GPT-4o` and `GPT-4o-mini`,
@@ -36,13 +23,12 @@ This project introduces a benchmark to evaluate large language models’ ethical
   - Alibaba: `Qwen-2.5-72B-Instruct` and `Qwen-2.5-7B-Instruct`,
   - Anthropic: `Claude 3.5 Sonnet` and `Claude 3 Haiku`,
   - Cohere: `Command R+` and `Command R`
-
-### 3⃣ Prompts used
-Anonymization prompt
-```bash
-# Example for 
-```
-
+- The codes were run using Python and [Google Colab](https://colab.research.google.com/).
+  
+### 2⃣ Code and Prompts used
+- Anonymization prompt:
+- Synthetic cases curation (L27 Taguchi):
+- Evaluation tasks prompt:
 ---
 
 ## 📁 Citation
