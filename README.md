@@ -15,7 +15,7 @@ This project introduces a benchmark to evaluate large language models’ ethical
 ---
 
 ## ⚙️ How to Run
-### 1⃣ Required Access
+### 1⃣ Models used
 
 - Following models are used in this study:
   - OpenAI: `GPT-4o` and `GPT-4o-mini`,
