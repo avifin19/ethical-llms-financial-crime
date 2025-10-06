@@ -11,7 +11,8 @@ This project introduces a benchmark to evaluate large language models’ ethical
 
 ## 📂 Dataset
 
-- [**73 Anonymized seed cases used in this study**]()  
+- Anonymized seed cases used in this study:
+- FMSB 2022 report case studies: [LINK](https://fmsb.com/wp-content/uploads/2022/05/22020525_BCA_Report_2022_FINAL.pdf)  
 ---
 
 ## ⚙️ How to Run
