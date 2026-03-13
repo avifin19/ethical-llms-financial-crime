@@ -12,7 +12,6 @@ This project introduces a benchmark to evaluate large language models’ ethical
 ## 📂 Dataset 
 Please cite our work if using the datasets/code from this study :
 
-- Seed cases used in this study:
 - Curated FMSB Report Case Studies in CSV Format ( Ready to USE ) : [LINK](https://drive.google.com/file/d/1puyujvOEwN_7t5ONGlpbJlsMDrx7OSME/view?usp=sharing)
 - FMSB 2022 report case studies (Original PDF): [LINK](https://fmsb.com/wp-content/uploads/2022/05/22020525_BCA_Report_2022_FINAL.pdf)
 
