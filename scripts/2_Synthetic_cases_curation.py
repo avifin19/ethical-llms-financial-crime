@@ -5,8 +5,6 @@ import requests
 import time
 from google.colab import userdata
 import os
-
-
 DRIVE_FOLDER = "drivepath"
 
 def ensure_drive_folder(folder_path=None):
