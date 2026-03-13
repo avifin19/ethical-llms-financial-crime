@@ -1,6 +1,6 @@
 # Evaluating the Ethical Judgment of Large Language Models in Financial Market Abuse Cases
 
-This project introduces a benchmark to evaluate large language models’ ethical and legal judgment in financial trading scenarios. Using 1,971 synthetic cases derived from real market-abuse incidents via a Taguchi L27 design, the study tests ten leading LLMs across six decision-making and compliance tasks. Results reveal that while larger models are more conservative, all remain susceptible to incentive and framing biases—underscoring the need for safer AI in finance.
+This project introduces a benchmark to evaluate large language models’ ethical and legal judgment in financial crime trading scenarios. Using 1,971 synthetic cases derived from real financial market-abuse incidents via a Taguchi L27 design, the study tests ten leading LLMs across six decision-making and compliance tasks. Results reveal that while larger models are more conservative, all models remain susceptible to incentive biases—underscoring the need for targeted LLM-focused regulation in financial markets.
 
 <figure>
   <img src="flowchart.jpg" alt="BRAIN Framework Diagram">
