@@ -33,7 +33,7 @@ Please cite our work if using the datasets/code from this study :
 ### 2⃣ Code and Prompts used
 - Anonymization prompt: [Code](./scripts/1_anonymization.py)
 - Synthetic cases curation (L27 Taguchi): [Code](./scripts/2_Synthetic_cases_curation.py)
-- Evaluation tasks prompt: [Code](./scripts/3_Evaluation_tasks_prompt.py)
+- Evaluation tasks (Tests 1-3): [Code](./scripts/3_Evaluation_tasks_prompt.py)
 ---
 
 ## 📁 Citation
