@@ -1,4 +1,4 @@
-# Evaluating the Ethical Judgment of LLMs in Financial Market Abuse Cases
+# Ethical Judgment of LLMs in Financial Market Abuse Cases
 
 This project introduces a benchmark to evaluate large language models’ ethical and legal judgment in financial crime trading scenarios. Using 1,971 synthetic cases derived from real financial market-abuse incidents via a Taguchi L27 design, the study tests ten leading LLMs across six decision-making and compliance tasks. Results reveal that while larger models are more conservative, all models remain susceptible to incentive biases—underscoring the need for targeted LLM-focused regulation in financial markets.
 
